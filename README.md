@@ -2,6 +2,12 @@
 
 ## Building
 
+* Set environment variables
+
+```
+source set_env.sh
+```
+
 * Set board in CMakeList.txt file
 
 * Menuconfig
